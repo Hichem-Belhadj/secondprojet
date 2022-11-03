@@ -14,4 +14,5 @@ java/*.html
 tmp/**
 
 # txt file
-*!README!.txt
+*txt
+!README.txt
