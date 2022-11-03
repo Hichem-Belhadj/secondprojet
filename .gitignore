@@ -1,0 +1,17 @@
+# class file
+java/*.class
+
+# HTML file
+java/*.html
+
+# Log file
+*.log
+
+# Bak file
+*.bak
+
+# Tmp dir
+tmp/**
+
+# txt file
+*.txt !README.txt
